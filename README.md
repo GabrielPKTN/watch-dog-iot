@@ -5,4 +5,4 @@
 ![gif](./img/requisicao-video.gif)
 
 ## Protótipo
-![proto](./img/prototipo)
+![proto](./img/prototipo.png)
